@@ -1,5 +1,5 @@
-site_name: My Docs
-repo_url: https://github.com/squidfunk/mkdocs-material
+site_name: Discord Music Bot
+repo_url: https://github.com/wtfnotavailable/Discord-MusicBot
 theme:
   name: material
   palette:
@@ -11,6 +11,16 @@ theme:
     - navigation.instant.prefetch
     - navigation.tabs
     - navigation.footer
+    - attr_list
+    - def_list
+    - footnotes
+    - admonition
+    - pymdownx.details
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra:
   generator: false
