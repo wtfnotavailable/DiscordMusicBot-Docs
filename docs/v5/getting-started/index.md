@@ -1,3 +1,8 @@
+---
+title: Bot Core
+description: This is Discord Music Bot version 5 documentation.
+---
+
 # Getting Started with Bot Core
 ## ⛔ | Prerequisites
 
@@ -5,6 +10,10 @@
 - [Lavalink Server](https://code.darrennathanael.com/how-to-lavalink) (if you're planning on hosting your own lavlink server)
 
 
+!!! danger "Discord Music Bot is not compatible with Lavalink v4"
+
+    v4 introduce a breaking changes that affects all library that are using v3 API. You must update your bot library to support v4!
+    See [github.com/wtfnotavailable/Discord-MusicBot/issues/201](https://github.com/wtfnotavailable/Discord-MusicBot/issues/201) regarding Lavalink v4 compatibility.
 
 
 !!! failure "Lavalink is needed for the bot to function!"
