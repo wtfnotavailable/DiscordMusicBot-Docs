@@ -20,7 +20,7 @@ description: This is Discord Music Bot version 5 documentation.
 
 ### Written Setup
 
-- Follow the [installation](/djs-bot/) procedure for the bot
+- Follow the [installation](/v5/getting-started/) procedure for the bot
     - Do keep in mind that this is the ONLY part of the tutorial that you need to follow from the original repo, which is the core of the bot
 
 #### For everything else:
